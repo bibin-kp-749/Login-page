@@ -1,0 +1,19 @@
+body{
+  background-image: url('../images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#root {
+  width: 100%;
+  height: screen;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  text-align: center;
+}
+.image{
+  width: 100%;
+  height: fit-content;
+}

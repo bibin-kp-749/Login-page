@@ -1,0 +1,73 @@
+#subsection{
+    width: 85%;
+    min-height:auto ;
+    background-color: white;
+    border-radius: 15px;
+}
+#image-section{
+    width: 50%;
+    height: 100%;
+}
+#image{
+    width:100%;
+    height:100%;
+    border-radius: 15px;
+}
+#Form-section{
+    width: 100%;
+    height: 100%;
+}
+.input{
+    max-width: 22rem;
+}
+.form-label{
+    text-align: start;
+    padding: 4px;
+    margin-bottom: 3px;
+}
+.desciption{
+    font-size: larger;
+
+}
+.form-row{
+    padding-left: 20px;
+    margin-bottom: 12px;
+}
+.submit{
+    min-width: 6rem;
+    min-height: 2.3rem;
+    border-radius: 10px;
+    display: flex;
+    align-self: start;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    border: 1px solid gray;
+    background-color: rgb(34, 156, 255);
+    color: white;
+    font-weight: 540;
+    font-size: 16px;
+    
+}
+.create{
+    color: gray;
+    border: 0px;
+    background-color: unset;
+    display: flex;
+    margin-top: 10px;
+    font-size: 16px;
+}
+#checkbox{
+    margin: 3px 3px 25px 0px;
+    width: 30px;
+}
+.check-section{
+    display: flex;
+    justify-content: start;
+}
+.section{
+    display: flex;
+    justify-content: start;
+    
+}
+
